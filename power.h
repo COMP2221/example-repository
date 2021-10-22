@@ -1,0 +1,1 @@
+int power(int,int);
